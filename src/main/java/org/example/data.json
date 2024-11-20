@@ -1,0 +1,38 @@
+[
+  {
+    "titlu": "Titlu",
+    "autor": "Nume Autor",
+    "anPublicare": 2024,
+    "numarExemplar": 23
+  },
+  {
+    "titlu": "Titlu2",
+    "autor": "Nume Autor2",
+    "anPublicare": 2026,
+    "numarExemplar": 18
+  },
+  {
+    "titlu": "Titlu2",
+    "autor": "Nume Autor2",
+    "anPublicare": 2025,
+    "numarExemplar": 45
+  },
+  {
+    "titlu": "Introducere in Programare",
+    "autor": "Ion Popescu",
+    "anPublicare": 2024,
+    "numarPagini" : 200
+  },
+  {
+    "titlu": "Java pentru Incepatori",
+    "autor": "Maria Ionescu",
+    "anPublicare": 2023,
+    "numarPagini" : 200
+  },
+  {
+    "titlu": "Java pentru Avansati",
+    "autor": "Maria Ionescu",
+    "anPublicare": 2024,
+    "numarPagini" : 200
+  }
+]
